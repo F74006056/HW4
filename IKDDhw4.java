@@ -2,6 +2,7 @@
  * input:command line OR Scanner
  * output:a table contains rank,filename by pagerank
  * 
+ * IKDDhw4 and webpage_data_5 have to in same directory
  * environment:eclipse in windows
  * 
  */
